@@ -31,7 +31,7 @@ LaTeX templates in this organization can be tested and used in conjunction with 
 
 For more details on contributing, learning about the structure of templates specifically and how to build one. See the [Contributors Guide](https://js.myst.tools/jtex/contribute-a-template).
 
-## LaTeX Templates
+## Templates
 
 | Title (`id`)                            | Repository                                                             | CI                                                                                                                                                                            |
 | :-------------------------------------- | :--------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
