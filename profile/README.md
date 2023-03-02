@@ -1,6 +1,6 @@
 # MyST Templates
 
-A community curated collection of [MyST Markdown](https://myst.tools) compatible templates. Learn how [use the LaTeX templates](https://js.myst.tools/guide/creating-pdf-documents), in your MyST Markdown frontmatter, add:
+A community curated collection of [MyST Markdown](https://myst-tools.org) compatible templates. Learn how [use the LaTeX templates](https://myst-tools.org/docs/mystjs/creating-pdf-documents), in your MyST Markdown frontmatter, add:
 
 ```yaml
 ---
@@ -24,12 +24,12 @@ The templates in this organization allow `myst` to export markdown files as type
 MyST welcomes contributions of new templates, or improvements to any of our curated templates. To get started:
 
 - 📝 [open an issue](https://github.com/myst-templates/templates/issues) - tell us about the template you'd like added. Provide a link to the template if it's online, or attach the files if you have them.
-- 🏋🏽‍♀️ [create your own template](https://js.myst.tools/jtex/create-a-latex-template) - Learn how to create your own template in a few easy steps!
-- 🤝 [contribute a template](https://js.myst.tools/jtex/contribute-a-template) - Even if it's partial or barely started we'll help test and get it over the line.
+- 🏋🏽‍♀️ [create your own template](https://myst-tools.org/docs/jtex/create-a-latex-template) - Learn how to create your own template in a few easy steps!
+- 🤝 [contribute a template](https://myst-tools.org/docs/jtex/contribute-a-template) - Even if it's partial or barely started we'll help test and get it over the line.
 
-LaTeX templates in this organization can be tested and used in conjunction with [jtex](https://js.myst.tools/jtex) a command line tool that helps validate and template your LaTeX documents.
+LaTeX templates in this organization can be tested and used in conjunction with [jtex](https://myst-tools.org/docs/jtex/) a command line tool that helps validate and template your LaTeX documents.
 
-For more details on contributing, learning about the structure of templates specifically and how to build one. See the [Contributors Guide](https://js.myst.tools/jtex/contribute-a-template).
+For more details on contributing, learning about the structure of templates specifically and how to build one. See the [Contributors Guide](https://myst-tools.org/docs/jtex/contribute-a-template).
 
 ## Templates
 
