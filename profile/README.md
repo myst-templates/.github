@@ -17,7 +17,7 @@ Then from the command line:
 myst build my-document.md
 ```
 
-The templates in this organization allow `myst` to export markdown files as typeset, formatted documents using PDF, LaTeX or Word. Templates can expose data-driven options for customization ensuring the final documents comply with author submission guidelines provided by a particular journal, conference organizer or university. Note that exporting to PDF will require LaTeX to be installed locally, [learn more](https://js.myst.tools/guide/creating-pdf-documents).
+The templates in this organization allow `myst` to export markdown files as typeset, formatted documents using PDF, LaTeX or Word. Templates can expose data-driven options for customization ensuring the final documents comply with author submission guidelines provided by a particular journal, conference organizer or university. Note that exporting to PDF will require LaTeX to be installed locally, [learn more](https://myst-tools.org/docs/mystjs/quickstart-myst-documents).
 
 ## Contributing
 
